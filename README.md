@@ -6,7 +6,7 @@
 # 资料下载
 ### 课程教材PDF
 
-https://github.com/TencentCloudBase/tcb-demo-hole/blob/master/%E6%A0%91%E6%B4%9E%20-%20%E6%95%99%E6%9D%90.pdf
+https://github.com/TencentCloudBase/tcb-demo-hole
 
 ![](https://puui.qpic.cn/vupload/0/20190611_1560237745805_zuavbuy2xmr.png/0)
 ![](https://puui.qpic.cn/vupload/0/20190611_1560238481881_1349qmnml2pm.png/0)

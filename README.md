@@ -21,6 +21,7 @@ https://github.com/TencentCloudBase/tcb-demo-hole/tree/master/init
 ![](https://puui.qpic.cn/vupload/0/20190611_1560240623109_2lx7oexw55f.png/0)
 ![](https://puui.qpic.cn/vupload/0/20190611_1560240831266_f2rg6o39j67.png/0)
 ![](https://puui.qpic.cn/vupload/0/20190611_1560241059469_neyvu2wy55.png/0)
+![](https://puui.qpic.cn/vupload/0/20190611_1560241193341_r66j12kl3tg.png/0)
 
 # 联系我们
 更多云开发使用技巧及Serverless行业动态，扫码关注我们~

@@ -12,9 +12,9 @@ https://share.weiyun.com/5o5z4Ln
 
 https://github.com/TencentCloudBase/tcb-demo-hole/tree/master/init
 <figure class="third">
-    <img src="https://puui.qpic.cn/vupload/0/20190611_1560221841256_dx49qk7s8xu.png/0" width="100>
-    <img src="https://puui.qpic.cn/vupload/0/20190611_1560222563858_9eu1ud512wo.png/0" width="100>
-    <img src="https://puui.qpic.cn/vupload/0/20190611_1560223507714_91wrsapwcnr.png/0" width="100>
+    <img src="{{ site.url }}https://puui.qpic.cn/vupload/0/20190611_1560221841256_dx49qk7s8xu.png/0">
+    <img src="{{ site.url }}https://puui.qpic.cn/vupload/0/20190611_1560222563858_9eu1ud512wo.png/0">
+    <img src="{{ site.url }}https://puui.qpic.cn/vupload/0/20190611_1560223507714_91wrsapwcnr.png/0">
 </figure>
 
 # 联系我们

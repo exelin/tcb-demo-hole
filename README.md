@@ -11,9 +11,7 @@ https://share.weiyun.com/5o5z4Ln
 ### 课程源码
 
 https://github.com/TencentCloudBase/tcb-demo-hole/tree/master/init
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="../images/QR-atm.png"  width="200" height="260" ></div>
-
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="../images/QR-Taobao.png" width="200" height="260" ></div>
+<div><style="float:left;border:solid 1px 000;margin:2px;"><img src="../images/QR-atm.png"  width="200"><style="float:left;border:solid 1px 000;margin:2px;"><img src="../images/QR-Taobao.png" width="200"></div>
 
 # 联系我们
 更多云开发使用技巧及Serverless行业动态，扫码关注我们~

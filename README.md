@@ -6,10 +6,6 @@
 # 资料下载
 ### 课程教材
 https://github.com/TencentCloudBase/tcb-demo-hole/blob/master/%E6%A0%91%E6%B4%9E%20-%20%E6%95%99%E6%9D%90.pdf
-
-### 课程源码
-
-https://github.com/TencentCloudBase/tcb-demo-hole/tree/master/init
 ![](https://puui.qpic.cn/vupload/0/20190611_1560237745805_zuavbuy2xmr.png/0)
 ![](https://puui.qpic.cn/vupload/0/20190611_1560238481881_1349qmnml2pm.png/0)
 ![](https://puui.qpic.cn/vupload/0/20190611_1560239074151_ef88h9dgzph.png/0)
@@ -20,6 +16,10 @@ https://github.com/TencentCloudBase/tcb-demo-hole/tree/master/init
 ![](https://puui.qpic.cn/vupload/0/20190611_1560240623109_2lx7oexw55f.png/0)
 ![](https://puui.qpic.cn/vupload/0/20190611_1560240831266_f2rg6o39j67.png/0)
 ![](https://puui.qpic.cn/vupload/0/20190611_1560241059469_neyvu2wy55.png/0)
+
+### 课程初始源码
+
+https://github.com/TencentCloudBase/tcb-demo-hole/tree/master/init
 
 # 联系我们
 更多云开发使用技巧及Serverless行业动态，扫码关注我们~

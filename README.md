@@ -6,7 +6,7 @@
 
 # 资料下载
 ### 课程教材
-https://github.com/1Skip/Qyer/blob/master/%E6%A0%91%E6%B4%9E%20-%20%E6%95%99%E6%9D%90.pdf
+https://github.com/TencentCloudBase/tcb-demo-hole/blob/master/%E6%A0%91%E6%B4%9E%20-%20%E6%95%99%E6%9D%90.pdf
 
 ### 课程源码
 

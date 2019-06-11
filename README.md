@@ -12,7 +12,6 @@ https://share.weiyun.com/5o5z4Ln
 
 https://github.com/TencentCloudBase/tcb-demo-hole/tree/master/init
 <center><img src="https://puui.qpic.cn/vupload/0/20190611_1560221841256_dx49qk7s8xu.png/0" width="300px"></center>
-<center>< img src="https://puui.qpic.cn/vupload/0/20190611_1560221841256_dx49qk7s8xu.png/0" width="300px" style="margin:auto;"></center>
 
 # 联系我们
 更多云开发使用技巧及Serverless行业动态，扫码关注我们~

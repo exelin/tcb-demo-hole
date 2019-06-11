@@ -4,8 +4,10 @@
 本次「云开发」公开课，将通过实战“树洞小程序”开发，教你如何借助小程序·云开发能力，提升功能开发效率。
 
 # 资料下载
-### 课程教材
+### 课程教材PDF
+
 https://github.com/TencentCloudBase/tcb-demo-hole/blob/master/%E6%A0%91%E6%B4%9E%20-%20%E6%95%99%E6%9D%90.pdf
+
 ![](https://puui.qpic.cn/vupload/0/20190611_1560237745805_zuavbuy2xmr.png/0)
 ![](https://puui.qpic.cn/vupload/0/20190611_1560238481881_1349qmnml2pm.png/0)
 ![](https://puui.qpic.cn/vupload/0/20190611_1560239074151_ef88h9dgzph.png/0)
